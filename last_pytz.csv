@@ -1,0 +1,94 @@
+File Name,Maintainer,Competency Level,Size
+__init__.py,Amit Aronovitch,AB,4
+__init__.py,Arch Librarian,AB,4
+__init__.py,James Henstridge,AB,4
+__init__.py,Jan Pipek,AB,4
+__init__.py,Joshua Logan,AB,4
+__init__.py,Matt Nordhoff,AB,4
+__init__.py,Stuart Bishop,AB,4
+__init__.py,[ Kyle ] [ Hausmann ],AB,4
+conf.py,Stuart Bishop,A,2
+exceptions.py,Stuart Bishop,AB,2
+gen_pot.py,Christian Clauss,AB,3
+gen_pot.py,Stuart Bishop,AB,3
+gen_tests.py,Arch Librarian,AB,4
+gen_tests.py,Stuart Bishop,AB,4
+gen_tzinfo.py,Arch Librarian,AB,4
+gen_tzinfo.py,Christian Clauss,AB,4
+gen_tzinfo.py,James Henstridge,AB,4
+gen_tzinfo.py,Stuart Bishop,AB,4
+gen_tzinfo.py,[ Kyle ] [ Hausmann ],AB,4
+lazy.py,Stuart Bishop,AB,4
+lazy.py,Tim Graham,AB,4
+reference.py,Arch Librarian,AB,4
+reference.py,Stuart Bishop,AB,4
+setup.py,Arch Librarian,AB,4
+setup.py,Bastien Vallet,AB,4
+setup.py,Hugo,AB,4
+setup.py,Hugo van Kemenade,AB,4
+setup.py,James Henstridge,AB,4
+setup.py,Jon Dufresne,AB,4
+setup.py,Stuart Bishop,AB,4
+setup.py,wim glenn,AB,4
+test_docs.py,Arch Librarian,AB,4
+test_docs.py,Stuart Bishop,AB,4
+test_lazy.py,Stuart Bishop,AB,4
+test_tzinfo.py,Amit Aronovitch,AB,4
+test_tzinfo.py,Arch Librarian,AB,4
+test_tzinfo.py,Joshua Logan,AB,4
+test_tzinfo.py,Matt Nordhoff,AB,4
+test_tzinfo.py,Stuart Bishop,AB,4
+test_tzinfo.py,[ Kyle ] [ Hausmann ],AB,4
+test_zdump.py,Stuart Bishop,AB,4
+tzfile.py,Arch Librarian,AB,4
+tzfile.py,James Henstridge,AB,4
+tzfile.py,Stuart Bishop,AB,4
+tzinfo.py,Arch Librarian,AB,4
+tzinfo.py,James Henstridge,AB,4
+tzinfo.py,Stuart Bishop,AB,4
+__init__.py,Amit Aronovitch,C1,1
+setup.py,Arch Librarian,C1,1
+setup.py,Bastien Vallet,C1,1
+setup.py,Hugo,C1,1
+setup.py,Hugo van Kemenade,C1,1
+setup.py,James Henstridge,C1,1
+setup.py,Jon Dufresne,C1,1
+setup.py,Stuart Bishop,C1,1
+setup.py,wim glenn,C1,1
+test_tzinfo.py,Amit Aronovitch,C1,1
+test_tzinfo.py,Arch Librarian,C1,1
+test_tzinfo.py,Joshua Logan,C1,1
+test_tzinfo.py,Matt Nordhoff,C1,1
+test_tzinfo.py,Stuart Bishop,C1,1
+test_tzinfo.py,[ Kyle ] [ Hausmann ],C1,1
+test_zdump.py,Stuart Bishop,C1,1
+tzfile.py,Arch Librarian,C1,1
+tzfile.py,James Henstridge,C1,1
+tzfile.py,Stuart Bishop,C1,1
+tzinfo.py,Arch Librarian,C1,1
+lazy.py,Tim Graham,C1,1
+lazy.py,Stuart Bishop,C1,1
+gen_tzinfo.py,[ Kyle ] [ Hausmann ],C1,1
+gen_tzinfo.py,Stuart Bishop,C1,1
+__init__.py,Arch Librarian,C1,1
+__init__.py,James Henstridge,C1,1
+__init__.py,Jan Pipek,C1,1
+__init__.py,Joshua Logan,C1,1
+__init__.py,Matt Nordhoff,C1,1
+__init__.py,Stuart Bishop,C1,1
+__init__.py,[ Kyle ] [ Hausmann ],C1,1
+tzinfo.py,James Henstridge,C1,1
+tzinfo.py,Stuart Bishop,C1,1
+gen_tests.py,Arch Librarian,C1,1
+gen_tests.py,Stuart Bishop,C1,1
+gen_tzinfo.py,Arch Librarian,C1,1
+gen_tzinfo.py,Christian Clauss,C1,1
+gen_tzinfo.py,James Henstridge,C1,1
+__init__.py,Jan Pipek,C2,1
+__init__.py,Matt Nordhoff,C2,1
+__init__.py,Arch Librarian,C2,1
+__init__.py,Amit Aronovitch,C2,1
+__init__.py,Stuart Bishop,C2,1
+__init__.py,[ Kyle ] [ Hausmann ],C2,1
+__init__.py,Joshua Logan,C2,1
+__init__.py,James Henstridge,C2,1
