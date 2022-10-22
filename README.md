@@ -1,12 +1,14 @@
-# PyPICompViz
+# Research Artifact - Visualizing Contributor Code Competency for PyPI Libraries: Preliminary Results
+
+This is a research artifact for the 29th Asia-Pacific Software Engineering Conference (APSEC 2022) 
+paper "**Visualizing Contributor Code Competency for PyPI Libraries: Preliminary Results**".
 
 This is the visualization based on [Treemap Charts](https://plotly.com/python/treemaps/) to show the relationship between proficient code, contributors, and files in four PyPI projects. 
 Analyzing four PyPI projects, we are able to explore which files contain more elegant code, and which contributors committed to these files. 
 Our results show that most files contain more basic competency files, and that not every contributor contributes competent code. 
 We show how are visualization is able to summarize such information, and opens up different possibilities for understanding how to make elegant contributions.
 
-A project of the Software Engineering Lab at the Nara Institute of Science and Technology. Research published in 29th Asia-Pacific Software Engineering Conference (APSEC 2022) 
-with the topic Visualizing Contributor Code Competency for PyPI Libraries: Preliminary Results.
+
 
 ## Data Resources for study
 
