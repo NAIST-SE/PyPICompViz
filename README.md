@@ -36,9 +36,9 @@ In this study, we design the tree map to show two visualizations, which have dif
 Note that the area size refers to the number of elements of competency found in each file.
 
 # Authors
-- [Indira Febriyanti](https://github.com/Indirafyn)
+- Indira Febriyanti
 - [Raula Gaikovina Kula](https://raux.github.io/)
-- [Ruksit Rojpaisarnkit](https://github.com/swindlemek)
-- [Kanchanok Kannee](https://github.com/mailtoy)
+- Ruksit Rojpaisarnkit
+- Kanchanok Kannee
 - [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
 - [Kenichi Matsumoto](https://matsumotokenichi.github.io/)
