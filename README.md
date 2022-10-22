@@ -30,15 +30,15 @@ Our dataset for each four projects:
 ## Visualization
 
 In this study, we design the tree map to show two visualizations, which have different patterns of categories.
-- `File-level visualization`. The file level visualization follows the category pattern as **Project → Filename → Competency Score**
-- `Contributor-level visualization`. The contributor level visualization follows the category pattern as **Project → Contributor → Competency Score**
+- `file-level_visualization.py`. The file level visualization follows the category pattern as **Project → Filename → Competency Score**
+- `contributor-level visualization.py`. The contributor level visualization follows the category pattern as **Project → Contributor → Competency Score**
 
 Note that the area size refers to the number of elements of competency found in each file.
 
 # Authors
-- Indira Febriyanti
-- Raula Gaikovina Kula
-- Ruksit Rojpaisarnkit
-- Kanchanok Kannee
-- Yusuf Sulistyo Nugroho
-- Kenichi Matsumoto
+- [Indira Febriyanti](https://github.com/Indirafyn)
+- [Raula Gaikovina Kula](https://raux.github.io/)
+- [Ruksit Rojpaisarnkit](https://github.com/swindlemek)
+- [Kanchanok Kannee](https://github.com/mailtoy)
+- [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
+- [Kenichi Matsumoto](https://matsumotokenichi.github.io/)
