@@ -43,15 +43,15 @@ Note that the area size refers to the number of elements of competency found in 
 
 - Flask
 
-![Flask dataset_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/flask_file.png)
+![Flask_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/flask_file.png)
 
 - Jinja2
 
-![Jinja2 dataset_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/jinja2_file.png)
+![Jinja2_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/jinja2_file.png)
 
 - Pytz
 
-![Pytz dataset_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/pytz_file.png)
+![Pytz_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/pytz_file.png)
 
 - Requests
 
@@ -59,15 +59,15 @@ Note that the area size refers to the number of elements of competency found in 
 
 - Flask
 
-![Flask dataset_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/flask_cont.png)
+![Flask_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/flask_cont.png)
 
 - Jinja2
 
-![Jinja2 dataset_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/jinja_cont.png)
+![Jinja2_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/jinja_cont.png)
 
 - Pytz
 
-![Pytz dataset_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/pytz_cont.png)
+![Pytz_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/pytz_cont.png)
 
 
 # Authors
