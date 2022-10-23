@@ -29,11 +29,46 @@ Our dataset for each four projects:
 
 ## Visualization
 
-In this study, we design the tree map to show two visualizations, which have different patterns of categories.
+In this study, we design the tree map to show two visualizations, which have different patterns of categories. 
+
 - `file-level_visualization.py`. The file level visualization follows the category pattern as **Project → Filename → Competency Score**
 - `contributor-level visualization.py`. The contributor level visualization follows the category pattern as **Project → Contributor → Competency Score**
 
 Note that the area size refers to the number of elements of competency found in each file.
+
+# Visualization Preview
+- Requests
+
+![Requests_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/requests_file.png)
+
+- Flask
+
+![Flask dataset_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/flask_file.png)
+
+- Jinja2
+
+![Jinja2 dataset_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/jinja2_file.png)
+
+- Pytz
+
+![Pytz dataset_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/pytz_file.png)
+
+- Requests
+
+![Requests_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/requests_cont.png)
+
+- Flask
+
+![Flask dataset_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/flask_cont.png)
+
+- Jinja2
+
+![Jinja2 dataset_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/jinja_cont.png)
+
+- Pytz
+
+![Pytz dataset_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/pytz_cont.png)
+
 
 # Authors
 - Indira Febriyanti
