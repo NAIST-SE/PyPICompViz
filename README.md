@@ -37,6 +37,9 @@ In this study, we design the tree map to show two visualizations, which have dif
 Note that the area size refers to the number of elements of competency found in each file.
 
 # Visualization Preview
+## Visualization at the File-Level. 
+green color represents the A and B competency, purple represents the C1 - Effective, and red represents the C2 - Mastery.
+
 - Requests
 
 ![Requests_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/requests_file.png)
@@ -52,6 +55,9 @@ Note that the area size refers to the number of elements of competency found in 
 - Pytz
 
 ![Pytz_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/pytz_file.png)
+
+## Visualization at the Contributor-Level. 
+green color represents the A and B competency, purple represents the C1 - Effective, and red represents the C2 - Mastery.
 
 - Requests
 
