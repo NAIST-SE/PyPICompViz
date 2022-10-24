@@ -38,43 +38,58 @@ Note that the area size refers to the number of elements of competency found in 
 
 # Visualization Preview
 ## Visualization at the File-Level. 
-green color represents the A and B competency, purple represents the C1 - Effective, and red represents the C2 - Mastery.
+Green color represents the A and B competency, purple represents the C1 - Effective, and red represents the C2 - Mastery.
 
-- Requests
+**(1) Requests_file**
 
-![Requests_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/requests_file.png)
+<p align = "center">
+  <a href="https://embed.deepnote.com/27fa03af-3e44-4642-9edc-1e3cf35050ba/068d0cb90f52431cb2b5ce282761fe46/cfe46eaf826b4379985c08db7fdd0d55?height=600"><img width="80%" src="https://naist-se.github.io/PyPICompViz/visualization/preview/requests_file.png"></a>
+</p>
 
-- Flask
+**(2) Flask_file**
 
-![Flask_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/flask_file.png)
+<p align = "center">
+  <a href="https://embed.deepnote.com/27fa03af-3e44-4642-9edc-1e3cf35050ba/068d0cb90f52431cb2b5ce282761fe46/670b10207c2c440bb29f3f49a5316247?height=600"><img width="80%" src="https://naist-se.github.io/PyPICompViz/visualization/preview/flask_file.png"></a>
+</p>
 
-- Jinja2
+**(3) Jinja2_file**
 
-![Jinja2_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/jinja2_file.png)
+<p align = "center">
+  <a href="https://embed.deepnote.com/27fa03af-3e44-4642-9edc-1e3cf35050ba/068d0cb90f52431cb2b5ce282761fe46/ddb3a6a05f0a4eda855f2866e10557bc?height=600"><img width="80%" src="https://naist-se.github.io/PyPICompViz/visualization/preview/jinja2_file.png"></a>
+</p>
 
-- Pytz
+**(4) Pytz_file**
 
-![Pytz_file](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/pytz_file.png)
+<p align= "center">
+  <a href="https://embed.deepnote.com/27fa03af-3e44-4642-9edc-1e3cf35050ba/068d0cb90f52431cb2b5ce282761fe46/48b50d54a88246dba77dff1f83829607?height=600"><img width="80%" src="https://naist-se.github.io/PyPICompViz/visualization/preview/pytz_file.png"></a>
+</p>
 
 ## Visualization at the Contributor-Level. 
-green color represents the A and B competency, purple represents the C1 - Effective, and red represents the C2 - Mastery.
+Green color represents the A and B competency, purple represents the C1 - Effective, and red represents the C2 - Mastery.
 
-- Requests
+**(1) Requests_contributor**
 
-![Requests_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/requests_cont.png)
+<p align= "center">
+  <a href="https://embed.deepnote.com/27fa03af-3e44-4642-9edc-1e3cf35050ba/068d0cb90f52431cb2b5ce282761fe46/66bd7ccc43c14d98b7c42988a2ceee98?height=600"><img width="80%" src="https://naist-se.github.io/PyPICompViz/visualization/preview/requests_cont.png"></a>
+</p>
 
-- Flask
+**(2) Flask_contributor**
 
-![Flask_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/flask_cont.png)
+<p align= "center">
+  <a href="https://embed.deepnote.com/27fa03af-3e44-4642-9edc-1e3cf35050ba/068d0cb90f52431cb2b5ce282761fe46/da98b4991a4f47c98ea169168771a661?height=600"><img width="80%" src="https://naist-se.github.io/PyPICompViz/visualization/preview/flask_cont.png"></a>
+</p>
 
-- Jinja2
+**(3) Jinja2_contributor**
 
-![Jinja2_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/jinja_cont.png)
+<p align = "center">
+  <a href="https://embed.deepnote.com/27fa03af-3e44-4642-9edc-1e3cf35050ba/068d0cb90f52431cb2b5ce282761fe46/dc6034853563471e8beb9bc7a9b2e7d4?height=600"><img width="80%" src="https://naist-se.github.io/PyPICompViz/visualization/preview/jinja_cont.png"></a>
+</p>
 
-- Pytz
+**(4) Pytz_contributor**
 
-![Pytz_cont](https://github.com/NAIST-SE/PyPICompViz/blob/main/visualization/preview/pytz_cont.png)
-
+<p align = "center">
+  <a href="https://embed.deepnote.com/27fa03af-3e44-4642-9edc-1e3cf35050ba/068d0cb90f52431cb2b5ce282761fe46/5ef8e0d8f5954203949ebf10cbe0eb8d?height=600"><img width="80%" src="https://naist-se.github.io/PyPICompViz/visualization/preview/pytz_cont.png"></a>
+</p>
 
 # Authors
 - Indira Febriyanti
